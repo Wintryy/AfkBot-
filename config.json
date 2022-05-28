@@ -1,9 +1,9 @@
 {
-	"ip":"WintryySMP.aternos.me",
-	"port": 57538,
-	"name": "Wintryy SMP",
+	"ip":"wxnter.scalacube.org",
+	"port": 2241,
+	"name": "Wxnter SG",
 	"auto-night-skip":"false",
-	"login-enabled":"true",
+	"login-enabled":"false",
 	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
 	"login-cmd":"/login november29"
 }
