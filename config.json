@@ -1,7 +1,7 @@
 {
 	"ip":"wxnter.scalacube.org",
 	"port": 2241,
-	"name": ".Wxnter_SG",
+	"name": "Bot",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
