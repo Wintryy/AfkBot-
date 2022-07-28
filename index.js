@@ -39,18 +39,18 @@ bot.on('login',function(){
 	   task(i); 
 	} 
 	console.log("Logged In")
-	bot.chat("Hello Im a Bot, Made By Wintryy.");
+	bot.chat("");
 });
   
 function task(i) { 
 	
   setTimeout(function() { 
     if(first == true){
-	bot.chat("Subscribe To Wintryy : https://youtube.com/channel/UC7mFP9YtQgaM3mXO0EBw2Bw")
+	bot.chat("")
 	first = false;
 	}
 	else{
-		bot.chat("Subscribe To Wintryy : https://youtube.com/channel/UC7mFP9YtQgaM3mXO0EBw2Bw")
+		bot.chat("")
 		first = true;
 	}
   }, 3600000 * i); 
